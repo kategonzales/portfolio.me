@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio!
 
-!k.jpg(src)
+![k.jpg](src)
 
 I am Kate Gonzales, a Virtual Assistant who can do Administrative tasks like Internet Research, Generating and Organizing Leads, Keyword Research with the use Google AdWords and have Excellent English Language Comprehension.
 
@@ -14,7 +14,7 @@ THESE ARE MY SAMPLE WORK
 **Data Entry**
 
 ```markdown
-_See photos below :)_
+_See photos below_
 
 
 [Link](url) and ![Image](src)
