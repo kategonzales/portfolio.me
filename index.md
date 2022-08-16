@@ -1,6 +1,6 @@
 ## WELCOME TO MY PORTFOLIO!
 
-<img src="https://user-images.githubusercontent.com/111236194/184788129-79744807-e901-4718-bee5-e5b2c769fe12.jpg" align="left" width="180px"/>
+<img src="https://user-images.githubusercontent.com/111236194/184797258-1414f206-2d40-43d5-b758-3928e999882e.jpg" align="left" width="180px"/>
 
 I am Kate Gonzales, a Virtual Assistant who can do Administrative tasks like Internet Research, Generating and Organizing Leads, Keyword Research with the use Google AdWords and have Excellent English Language Comprehension.
 
