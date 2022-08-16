@@ -1,27 +1,21 @@
 ## Welcome to my Portfolio!
 
-You can use the [editor on GitHub](https://github.com/kategonzales/portfolio.me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![k.jpg](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Kate Gonzales, a Virtual Assistant who can do Administrative tasks like Internet Research, Generating and Organizing Leads, Keyword Research with the use Google AdWords and have Excellent English Language Comprehension.
 
-### Markdown
+Also, I can do a basic task like; Data Entry with the use of Google Docs and Spreadsheets, Manage Dropbox, and Google Drive. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Additional skill is editing photos and making templates with the use of Canva. I can do Social Media Managing and Marketing, in the use of social media sites such as (Facebook, Twitter, Instagram, Tumblr, and Reddit).
+
+
+THESE ARE MY SAMPLE WORK
+
+**Data Entry**
 
 ```markdown
-Syntax highlighted code block
+_See photos below :)_
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
